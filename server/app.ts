@@ -6,7 +6,7 @@ const app = express();
 app.use(express.static(publicDirectoryPath))
 
 
-app.get("/", (req, res) => {
+app.get("/test", (req, res) => {
     return res.send("hello world");
 });
 
