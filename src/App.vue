@@ -1,14 +1,15 @@
 <template>
-  <Explorer />
-  <Editor />
+  <Menu />
+  <div id="workspace">
+    <Explorer />
+    <Editor />
+  </div>
 </template>
 
 <script lang="ts" setup>
-import { ref } from "vue";
-
-import Explorer from "@/components/modules/Explorer.vue"
-import Editor from "@/components/modules/Editor.vue"
-
+import Menu from "@/components/modules/Menu.vue";
+import Explorer from "@/components/modules/Explorer.vue";
+import Editor from "@/components/modules/Editor.vue";
 
 </script>
 
@@ -16,7 +17,11 @@ import Editor from "@/components/modules/Editor.vue"
 html {
   body {
     color: #fafafa;
-    background-color: #000;
+    background-color: #262335;
+    #workspace {
+      display: flex;
+      height: calc(100vh - 30px);
+    }
   }
 }
 </style>
