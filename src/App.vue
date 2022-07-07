@@ -4,6 +4,9 @@
     <Explorer />
     <Editor />
   </div>
+  1
+  2
+  3
 </template>
 
 <script lang="ts" setup>
