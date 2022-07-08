@@ -4,10 +4,6 @@
     <Explorer />
     <Editor />
   </div>
-Marcus Acantha
-Malina Hendrick
-Abd al-Rashid Maximiliana
-Nikoletta Tuulikki
 </template>
 
 <script lang="ts" setup>
