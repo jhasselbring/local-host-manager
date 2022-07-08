@@ -5,7 +5,7 @@
     <Editor />
   </div>
   1
-  2
+  4
   3
 </template>
 
