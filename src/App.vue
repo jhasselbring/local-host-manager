@@ -7,7 +7,7 @@
 Marcus Acantha
 Malina Hendrick
 Abd al-Rashid Maximiliana
-Ásdís Yngvarr
+Nikoletta Tuulikki
 </template>
 
 <script lang="ts" setup>
