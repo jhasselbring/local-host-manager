@@ -4,9 +4,10 @@
     <Explorer />
     <Editor />
   </div>
-  1
-  4
-  3
+Marcus Acantha
+Malina Hendrick
+Abd al-Rashid Maximiliana
+Ásdís Yngvarr
 </template>
 
 <script lang="ts" setup>
